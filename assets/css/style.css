@@ -482,3 +482,129 @@ p{color:#556770}.lead{color:#4E646F}.eyebrow{color:#BE9A5F}
   border-color: rgba(190,154,95,.38);
 }
 
+
+
+/* White & Light Blue Premium palette override */
+:root{
+  --ink:#123142;
+  --navy:#123142;
+  --navy-2:#1E4B61;
+  --sea:#6DB7D2;
+  --sand:#F4FAFE;
+  --cream:#F7FCFF;
+  --white:#ffffff;
+  --gold:#6DB7D2;
+  --muted:#67808C;
+  --line:rgba(18,49,66,.10);
+  --shadow:0 26px 80px rgba(18,49,66,.10);
+}
+body{background:#F7FCFF;color:#2C4653}
+h1,h2,h3{color:#123142}
+p{color:#526B77}.lead{color:#486876}.eyebrow{color:#3D9FC2}
+::selection{background:rgba(109,183,210,.25)}
+
+.site-header .nav-shell{
+  border-color:rgba(18,49,66,.10);
+  background:rgba(255,255,255,.88);
+  box-shadow:0 20px 60px rgba(18,49,66,.08)
+}
+.brand{color:#123142}.brand small{color:#6D9BAD}.brand-mark{background:#6DB7D2;color:#ffffff}
+.nav-links a{color:#3D5865}
+.nav-links a:hover,.nav-links a.active{background:#EAF7FC;color:#123142}
+.menu-toggle{background:#6DB7D2;color:#ffffff}
+.mobile-menu{background:rgba(255,255,255,.98);border-color:rgba(18,49,66,.10);box-shadow:0 24px 70px rgba(18,49,66,.12)}
+.mobile-menu a{color:#123142}.mobile-menu a:hover{background:#EAF7FC;color:#123142}
+.lang-switch{border-color:rgba(18,49,66,.10);background:#F4FAFE}
+.lang-switch a{color:#123142}.lang-switch a.active{background:#6DB7D2;color:#ffffff;box-shadow:0 8px 22px rgba(109,183,210,.22)}
+.lang-switch a:not(.active):hover{background:#ffffff;color:#123142}
+.mobile-menu .mobile-lang{border-top-color:rgba(18,49,66,.10)}
+.mobile-menu .mobile-lang a{background:#F4FAFE;color:#123142}.mobile-menu .mobile-lang a.active{background:#6DB7D2;color:#ffffff}
+
+.btn-primary{background:#6DB7D2;color:#ffffff;box-shadow:0 18px 44px rgba(109,183,210,.25)}
+.btn-primary:hover{background:#4FA6C5;color:#ffffff}
+.btn-light{background:#ffffff;color:#123142;box-shadow:0 16px 40px rgba(18,49,66,.10)}
+.btn-ghost{border-color:rgba(109,183,210,.34);color:#123142;background:#F4FAFE}
+.btn-ghost:hover{border-color:#6DB7D2;background:#ffffff;color:#123142}
+
+.hero{
+  background:
+    radial-gradient(circle at 82% 10%,rgba(109,183,210,.22),transparent 34%),
+    radial-gradient(circle at 12% 86%,rgba(216,241,249,.58),transparent 34%),
+    linear-gradient(145deg,#FFFFFF 0%,#F4FAFE 50%,#E9F7FC 100%)
+}
+.hero::before{background:radial-gradient(circle,rgba(109,183,210,.14),transparent 62%)}
+.hero-copy h1 span{color:#3D9FC2}
+.hero-card{border-color:rgba(255,255,255,.82);box-shadow:0 30px 90px rgba(18,49,66,.12)}
+.float-badge{background:#6DB7D2;color:#ffffff;box-shadow:0 16px 44px rgba(18,49,66,.14)}
+.fact{border-color:rgba(109,183,210,.20);background:rgba(255,255,255,.78);box-shadow:0 18px 52px rgba(18,49,66,.08)}
+.fact strong{color:#123142}.fact span{color:#55717D}
+
+.section{background:#F7FCFF}.section-alt{background:#FFFFFF;color:#123142}.section-dark{background:#EAF7FC;color:#123142}
+.section-alt h1,.section-alt h2,.section-alt h3,.section-dark h1,.section-dark h2,.section-dark h3{color:#123142}
+.section-alt p,.section-alt .lead,.section-dark p,.section-dark .lead{color:#526B77}
+.section-alt .eyebrow,.section-dark .eyebrow{color:#3D9FC2}
+
+.info-card,.apartment-panel,.booking-form,.location-card,.detail-card,.thank-card{
+  background:#ffffff;
+  border-color:rgba(109,183,210,.18);
+  box-shadow:0 24px 70px rgba(18,49,66,.08);
+  color:#123142
+}
+.info-card h3,.apartment-content h3,.booking-form h2,.booking-form h3,.location-card h3,.detail-card h3,.thank-card h1,.thank-card h2,.thank-card h3{color:#123142}
+.info-card p,.apartment-content p,.booking-form p,.location-card p,.detail-card p,.thank-card p{color:#526B77}
+.info-card .icon{background:#EAF7FC;color:#123142}
+.tag{background:#EAF7FC;color:#123142;border:1px solid rgba(109,183,210,.22)}
+.check-list li,.detail-card ul,.detail-card li{color:#435A65}.check-list li::before{color:#3D9FC2}
+.apartment-image{background:#EAF7FC}
+.gallery-item{background:#EAF7FC;box-shadow:0 18px 54px rgba(18,49,66,.10)}
+.gallery-label{background:rgba(255,255,255,.90);color:#123142;border:1px solid rgba(109,183,210,.22)}
+
+.cta-band{background:linear-gradient(135deg,#FFFFFF 0%,#F4FAFE 52%,#EAF7FC 100%);border:1px solid rgba(109,183,210,.22);box-shadow:0 30px 90px rgba(18,49,66,.08)}
+.cta-band::after{background:radial-gradient(circle,rgba(109,183,210,.18),transparent 68%)}
+.cta-band h2{color:#123142}.cta-band p{color:#526B77}
+
+.booking-aside,.sticky-book{background:linear-gradient(145deg,#123142,#1E4B61);border:1px solid rgba(109,183,210,.25);box-shadow:0 28px 90px rgba(18,49,66,.16)}
+.booking-aside h2,.sticky-book h3{color:#ffffff}.booking-aside p,.sticky-book p{color:rgba(255,255,255,.78)}
+.mini-contact a,.mini-contact div{border-color:rgba(255,255,255,.16);background:rgba(255,255,255,.08);color:#ffffff}
+
+.field label{color:#123142}
+.field input,.field select,.field textarea{background:#F7FCFF;color:#123142;border-color:rgba(109,183,210,.24)}
+.field input:focus,.field select:focus,.field textarea:focus{border-color:#6DB7D2;box-shadow:0 0 0 4px rgba(109,183,210,.16);background:#ffffff}
+.form-note{color:#5D747F}.privacy{color:#6B7E87}
+
+.map-card{background:linear-gradient(rgba(18,49,66,.42),rgba(18,49,66,.46)),url('../images/roko-window-view.avif') center/cover;border:1px solid rgba(109,183,210,.28)}
+.map-card h3{color:#ffffff}.map-card p{color:rgba(255,255,255,.84)}
+
+.page-hero{
+  background:
+    radial-gradient(circle at 86% 34%,rgba(109,183,210,.20),transparent 32%),
+    radial-gradient(circle at 8% 88%,rgba(216,241,249,.62),transparent 30%),
+    linear-gradient(145deg,#FFFFFF 0%,#F4FAFE 62%,#EAF7FC 100%)
+}
+.page-hero::after{background:radial-gradient(circle,rgba(109,183,210,.16),transparent 64%)}
+.apartment-hero-image{box-shadow:0 30px 90px rgba(18,49,66,.12);border:1px solid rgba(109,183,210,.16)}
+.mini-gallery button{background:#EAF7FC;box-shadow:0 16px 48px rgba(18,49,66,.08)}
+
+.site-footer{background:#123142;color:#ffffff;border-top:1px solid rgba(109,183,210,.20)}
+.footer-grid h3{color:#ffffff}.footer-grid p,.footer-grid a{color:rgba(255,255,255,.74)}.footer-grid a:hover{color:#B9E7F4}
+.footer-bottom{border-top-color:rgba(255,255,255,.12);color:rgba(255,255,255,.54)}
+
+.cookie-panel{background:rgba(255,255,255,.96);color:#123142;border-color:rgba(109,183,210,.30);box-shadow:0 28px 90px rgba(18,49,66,.16)}
+.cookie-panel h2{color:#123142}.cookie-panel p{color:#526B77}.cookie-panel a{color:#3D9FC2}
+.cookie-btn{border-color:rgba(18,49,66,.14);background:#F4FAFE;color:#123142}
+.cookie-btn:hover{border-color:rgba(109,183,210,.52)}
+.cookie-btn.primary{background:#6DB7D2;color:#ffffff;border-color:#6DB7D2}
+.cookie-btn.light{background:#123142;color:#ffffff;border-color:#123142}
+.cookie-settings{border-top:1px solid rgba(18,49,66,.10)}
+.cookie-choice{border-bottom:1px solid rgba(18,49,66,.08)}
+.cookie-choice strong{color:#123142}.cookie-choice span{color:#687982}
+.cookie-slider{background:rgba(18,49,66,.20)}
+.cookie-slider:before{background:#ffffff}
+.cookie-switch input:checked + .cookie-slider{background:#6DB7D2}
+.cookie-switch input:checked + .cookie-slider:before{background:#ffffff}
+.cookie-settings-link{color:#B9E7F4}
+
+.footer-legal a{color:rgba(255,255,255,.74)}.footer-legal a:hover{color:#B9E7F4}
+.thank-you{background:radial-gradient(circle at 82% 10%,rgba(109,183,210,.18),transparent 34%),linear-gradient(145deg,#FFFFFF,#EAF7FC)}
+.lightbox{background:rgba(18,49,66,.92)}.lightbox-close{background:#ffffff;color:#123142}
+
