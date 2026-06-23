@@ -11,6 +11,7 @@ Apartments Ela & Roko is a small accommodation website for guests looking for a 
 - [Apartment Ela](https://www.korcula-roko.com/ela.html) — Details and photos for Apartment Ela.
 - [Apartment Roko](https://www.korcula-roko.com/roko.html) — Details and photos for Apartment Roko.
 - [Gallery](https://www.korcula-roko.com/gallery.html) — Photo gallery of the apartments, terraces and views.
+- [Korčula photo gallery](https://www.korcula-roko.com/korcula.html) — Dedicated destination gallery with photos of Korčula.
 - [Location](https://www.korcula-roko.com/location.html) — Address and location information for Korčula.
 - [Reservation inquiry](https://www.korcula-roko.com/reservation.html) — Direct reservation inquiry form.
 - [Contact](https://www.korcula-roko.com/contact.html) — Phone, WhatsApp, Viber, e-mail and address.
@@ -22,6 +23,7 @@ Apartments Ela & Roko is a small accommodation website for guests looking for a 
 - [Apartman Ela](https://www.korcula-roko.com/ela.html)
 - [Apartman Roko](https://www.korcula-roko.com/roko.html)
 - [Galerija](https://www.korcula-roko.com/gallery.html)
+- [Galerija Korčule](https://www.korcula-roko.com/korcula.html)
 - [Lokacija](https://www.korcula-roko.com/location.html)
 - [Rezervacija](https://www.korcula-roko.com/reservation.html)
 - [Kontakt](https://www.korcula-roko.com/contact.html)
@@ -35,6 +37,7 @@ Apartments Ela & Roko is a small accommodation website for guests looking for a 
 - [Apartment Ela](https://www.korcula-roko.com/en/ela.html)
 - [Apartment Roko](https://www.korcula-roko.com/en/roko.html)
 - [Gallery](https://www.korcula-roko.com/en/gallery.html)
+- [Korčula Gallery](https://www.korcula-roko.com/en/korcula.html)
 - [Location](https://www.korcula-roko.com/en/location.html)
 - [Reservation inquiry](https://www.korcula-roko.com/en/reservation.html)
 - [Contact](https://www.korcula-roko.com/en/contact.html)
