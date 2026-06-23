@@ -608,3 +608,9 @@ p{color:#526B77}.lead{color:#486876}.eyebrow{color:#3D9FC2}
 .thank-you{background:radial-gradient(circle at 82% 10%,rgba(109,183,210,.18),transparent 34%),linear-gradient(145deg,#FFFFFF,#EAF7FC)}
 .lightbox{background:rgba(18,49,66,.92)}.lightbox-close{background:#ffffff;color:#123142}
 
+
+
+/* Fix clickable CTA buttons inside decorative CTA bands */
+.cta-band::after{pointer-events:none}
+.cta-band > *{position:relative;z-index:1}
+
