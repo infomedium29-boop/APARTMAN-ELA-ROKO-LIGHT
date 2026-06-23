@@ -614,3 +614,10 @@ p{color:#526B77}.lead{color:#486876}.eyebrow{color:#3D9FC2}
 .cta-band::after{pointer-events:none}
 .cta-band > *{position:relative;z-index:1}
 
+
+
+/* Hide visible labels only on Korčula destination gallery photos */
+.gallery-item[data-lightbox-src*="/korcula/"] .gallery-label{
+  display:none;
+}
+
